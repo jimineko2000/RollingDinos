@@ -6,8 +6,8 @@ RollingDinos（以下、本アプリ）は、広告サポートにより無料�
 
 このアプリは、以下のサードパーティのサービスを使用しています。
 
-* [Google Play Services]（https://www.google.com/policies/privacy/）
-* [Google AdMob]（https://support.google.com/admob/answer/6128543?hl=en）
+* [Google Play Services]
+* [Google AdMob]
 
 本アプリを使用する場合、利用者はこのポリシーに関連する情報の収集と使用に同意するものとします。アプリによって収集される個人情報は、本サービスの提供および改善に使用されます。このプライバシーポリシーに記載されている場合を除き、利用者の情報を使用したり、他人と共有したりしません。
 
