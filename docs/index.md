@@ -2,7 +2,8 @@
 
 RollingDinos（以下、本アプリ）は、広告サポートにより無料提供されるアプリとして構築されています。このページは、本アプリにおける個人情報の収集、使用、および開示に関するポリシーについて利用者に通知するために制作されています。
 
-RollingDinos (hereinafter referred to as this application) is built as an application provided free of charge by advertising support. This page is designed to notify you about our policies regarding the collection, use and disclosure of personal information in this app.
+RollingDinos  is built as an application provided free of charge by advertising support. This page is designed to notify you about our policies regarding the collection, use and disclosure of personal information in this app.
+
 
 
 **情報の収集と使用 Information Collection and Use**
@@ -24,11 +25,15 @@ If you choose to use this application, then you agree to the collection and use 
 
 If an error occurs while using this application, we may collect device information (called log data) (through a third party product). This log data may include the device's IP address, device name, operating system version, service usage date and time, and other statistics.
 
+
+
 **他のサイトへのリンク Links to other sites**
 
 本アプリには、他のサイトへのリンクが含まれている場合があります。他のサイトへのリンクをクリックすると、そのサイトに移動します。これらの外部サイトは本アプリ製作者が運営していないことに注意してください。したがって、これらのWebサイトのプライバシーポリシーを確認することを強くお勧めします。本アプリ製作者は、第三者のサイトまたはサービスのコンテンツ、プライバシーポリシー、または慣行を管理することはできず、責任を負わないものとします。
 
 This application may contain links to other sites. Clicking a link to another site will take you to that site. Please note that these external sites are not operated by the creator of this application. Therefore, we strongly recommend that you review the privacy policies of these websites. The creator of this app has no control over and is not responsible for the content, privacy policies, or practices of third party sites or services.
+
+
 
 **このプライバシーポリシーの変更 Changes to this privacy policy**
 
@@ -37,9 +42,13 @@ This application may contain links to other sites. Clicking a link to another si
 The privacy policy may be updated from time to time. If changes are made, we will post a new privacy policy on this page to notify you of the changes.
 
 
+
+
 このポリシーは2022年7月25日から有効です
 
 This policy is effective from 25th July 2022
+
+
 
 **お問い合わせ Contact Us**
 
