@@ -9,6 +9,7 @@ RollingDinos is built as an application provided free of charge by advertising s
 **情報の収集と使用 Information Collection and Use**
 
 このアプリは、以下のサードパーティのサービスを使用しています。
+
 This app uses the following third party services:
 
 * [Google Play Services]
