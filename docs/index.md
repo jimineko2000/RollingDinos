@@ -2,7 +2,7 @@
 
 RollingDinos（以下、本アプリ）は、広告サポートにより無料提供されるアプリとして構築されています。このページは、本アプリにおける個人情報の収集、使用、および開示に関するポリシーについて利用者に通知するために制作されています。
 
-RollingDinos  is built as an application provided free of charge by advertising support. This page is designed to notify you about our policies regarding the collection, use and disclosure of personal information in this app.
+RollingDinos is built as an application provided free of charge by advertising support. This page is designed to notify you about our policies regarding the collection, use and disclosure of personal information in this app.
 
 
 
