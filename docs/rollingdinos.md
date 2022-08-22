@@ -1,4 +1,4 @@
-[日本語](rollingdinosjp.md)
+[日本語ページ(Japanese Page)](rollingdinosjp.md)
 
 # Rolling Dinos
 
@@ -24,5 +24,7 @@ From children to the elderly, please try playing.
 ![Rule2](img/rule2en.png)
 ---
 
-![Google Play](img/google-play-badge_en.png)[](https://play.google.com/store/apps/details?id=jp.example.rollingdinos)
+## Download
+
+[<img src="img/google-play-badge_en.png" width="200">](https://play.google.com/store/apps/details?id=jp.example.rollingdinos)
 
