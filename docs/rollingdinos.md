@@ -1,4 +1,4 @@
-[日本語ページ(Japanese Page)](rollingdinosjp.md)
+[日本語ページ (Japanese Page)](rollingdinosjp.md)
 
 # Rolling Dinos
 
