@@ -1,26 +1,21 @@
-Rolling Dinos is a puzzle game with cute dinosaur pieces. The rules are quite simple, but it is very challenging.
 
+![]("img/titleen.png")
 
+# Rolling Dinos
 
-Rules
+This app is a puzzle game where you control 16 dinosaurs on the game board. 
+If you can align dinosaurs of the same color in a row, the stage is cleared.
 
+The only way to move the dinosaurs is to press the 9 spin buttons embedded on the game board. 
 
+The average playing time is about 5 to 30 minutes. 
+The rules are simple, but it's a challenging puzzle game. 
+From children to the elderly, please try playing.
 
-Credits
-- CG -
-Arks💢 (https://arks.itch.io/dino-character)
+# Rules
 
-Szadi art. (https://szadiart.itch.io/bakcground-hil)
+![Rule1]("img/rule1en.png")
+![Rule2]("img/rule2en.png")
+![Rule3]("img/rule3en.png")
+![Rule4]("img/rule4en.png")
 
-- MUSIC & SFX -
-SVL (https://svl.itch.io/rpg-music-pack-svl)
-
-ivy (https://ivyism.itch.io/fantasy-pack)
-
-- UI & ICONS  -
-VectorPixelStar (https://vectorpixelstar.itch.io/)
-
-Henry Software(https://henrysoftware.itch.io/pixel-interface)
-
-- TESTING -
-popo2525 (https://scratch.mit.edu/projects/624858626/)
